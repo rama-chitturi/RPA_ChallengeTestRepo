@@ -2,7 +2,7 @@
 
 This Repo contains the Test script written in Selenium and Java for
 'RPA Challenge' - In which the 10 text fields change its postion and ID dynamically on submitting the values each round out of 10 rounds.
-
+Trying to implement scripts by locating with various paths.
 http://www.rpachallenge.com/
 
 Intructions provided by challenge website.
